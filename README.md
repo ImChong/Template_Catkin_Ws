@@ -1,7 +1,7 @@
 # Template_Catkin_Ws
 Template for ROS catkin workspace
 
-Compile the ROS package
+To ompile the ROS package template:
 ```shell
 catkin build
 ```
