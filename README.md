@@ -1,5 +1,5 @@
 # Template_Catkin_Ws
-Template for ROS catkin workspace
+Template for ROS catkin workspace (ROS version: Noetic Ninjemys)
 
 The template_rospkg package is created by (at the root of this repository):
 ```shell
