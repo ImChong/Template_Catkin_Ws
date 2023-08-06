@@ -2,7 +2,6 @@
 Template for ROS catkin workspace
 
 # Compile
-'''
-shell
+```shell
 catkin build
-'''
+```
