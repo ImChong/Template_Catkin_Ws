@@ -2,13 +2,13 @@
 
 - [1. catkin](#1-catkin)
   - [1.1. what is catkin](#11-what-is-catkin)
-  - [catkin\_make 与 catkin build 的区别？](#catkin_make-与-catkin-build-的区别)
+  - [1.2. catkin\_make 与 catkin build 的区别？](#12-catkin_make-与-catkin-build-的区别)
 
 ## 1.1. what is catkin
 >
 > [Conceptual Overview](http://wiki.ros.org/catkin/conceptual_overview)
 
-## catkin_make 与 catkin build 的区别？
+## 1.2. catkin_make 与 catkin build 的区别？
 >
 > `catkin_make` 和 `catkin build` 是ROS中用于构建ROS工作空间的两种不同的命令，它们来自不同的catkin工具。下面是它们之间的主要区别：
 >
